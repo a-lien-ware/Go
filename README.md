@@ -56,4 +56,5 @@ go build hello.go //将程序编译为为二进制文件
 HelloWorld!
 Go!
 ```
-如果输出成功就证明你已经成功配置了go的开发环境，可以开始编程了(可以使用Code里面的Copilot自动编成，选择Agent模式)
+如果输出成功就证明你已经成功配置了go的开发环境，可以开始编程了(可以使用Code里面的Copilot自动编成，选择Agent模式)  
+[注册github账号如果无法注册，地区选择美国](https://github.com)
